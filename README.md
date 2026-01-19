@@ -20,7 +20,7 @@
         <li><a href="#home" class="hover:underline">Home</a></li>
         <li><a href="#about" class="hover:underline">About</a></li>
         <li><a href="#portfolio" class="hover:underline">Portfolio</a></li>
-        <li><a href="#contact" class="hover:underline">Contact</a></li>
+        <li><a href="#contact" class="hover:underline">7840880731</a></li>
       </ul>
     </div>
   </nav>
